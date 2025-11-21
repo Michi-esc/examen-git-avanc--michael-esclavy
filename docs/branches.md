@@ -1,1 +1,2 @@
 main (branche de base), dev (intégration), feature (nouvelles fonctionnalités), hotfix (corrections).
+j'ai merge dev avec main pour garder le fichier branches et ne plus avoir le readme avec une erreur
